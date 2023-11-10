@@ -1,6 +1,7 @@
 import NavBar from "./NavBar";
 import Hero from "./Hero";
 import Stats from "./Stats";
+import GetStarted from "./GetStarted";
 import Bussiness from "./Bussiness";
 import Billing from "./Billing";
 import CardDeal from "./CardDeal";
@@ -15,6 +16,7 @@ export {
   NavBar,
   Hero,
   Stats,
+  GetStarted,
   Bussiness,
   Billing,
   CardDeal,
