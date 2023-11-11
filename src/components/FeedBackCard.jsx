@@ -1,6 +1,6 @@
 import { quotes } from "../assets";
 
-const FeedbackCard = ({ content, name, title, img }) => (
+const FeedBackCard = ({ content, name, title, img }) => (
   <div className='flex flex-col px-10 py-12 gap-3 rounded-[20px] max-w-[370px] feedback-card'>
     <img
       src={quotes}
@@ -25,4 +25,4 @@ const FeedbackCard = ({ content, name, title, img }) => (
   </div>
 );
 
-export default FeedbackCard;
+export default FeedBackCard;
