@@ -7,3 +7,5 @@ This is a fully responsive landing page.
 The project is built with the following technologies
 `React.js`
 `Tailwindcss`
+## Demo Image
+![hoobank demo image](public/demo-hoobank.png)
